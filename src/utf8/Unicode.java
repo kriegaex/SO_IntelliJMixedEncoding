@@ -1,6 +1,34 @@
 package utf8;
 
 public class Unicode {
+	static final String loremIpsum = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy\n" +
+		"eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam\n" +
+		"voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet\n" +
+		"clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit\n" +
+		"amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam\n" +
+		"nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,\n" +
+		"sed diam voluptua. At vero eos et accusam et justo duo dolores et ea\n" +
+		"rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem\n" +
+		"ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing\n" +
+		"elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna\n" +
+		"aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo\n" +
+		"dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus\n" +
+		"est Lorem ipsum dolor sit amet.\n" +
+		"\n" +
+		"Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse\n" +
+		"molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero\n" +
+		"eros et accumsan et iusto odio dignissim qui blandit praesent luptatum\n" +
+		"zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum\n" +
+		"dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh\n" +
+		"euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.\n" +
+		"\n" +
+		"Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper\n" +
+		"suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem\n" +
+		"vel eum iriure dolor in hendrerit in vulputate velit esse molestie\n" +
+		"consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et\n" +
+		"accumsan et iusto odio dignissim qui blandit praesent luptatum zzril\n" +
+		"delenit augue duis dolore te feugait nulla facilisi.\n";
+
 	static final String aristotleCV = "Αριστοτέλης\n" +
 		"\n" +
 		"Από τη Βικιπαίδεια, την ελεύθερη εγκυκλοπαίδεια\n" +
